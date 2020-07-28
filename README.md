@@ -1,4 +1,4 @@
-### I'm Android Developer. I like Kotlin/Flutter/Firebase
+### I'm a Android Developer. I like Kotlin/Flutter/Firebase
 [https://medium.com/@m_coder](https://medium.com/@m_coder)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nanaten)](https://github.com/anuraghazra/github-readme-stats)
