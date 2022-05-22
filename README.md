@@ -1,5 +1,7 @@
 ### I'm a Android Developer. I like Kotlin/Flutter/Firebase
+
 [Blog](https://nanaten.github.io/blog/)
+
 [Zenn](https://zenn.dev/m_coder)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nanaten)](https://github.com/anuraghazra/github-readme-stats)
