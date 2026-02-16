@@ -1,4 +1,4 @@
-### I'm a Android Developer. I like Kotlin/Flutter/Firebase
+### I'm a Android Developer / Engineering Manager.
 
 [Zenn](https://zenn.dev/m_coder)
 
