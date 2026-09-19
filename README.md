@@ -2,7 +2,7 @@
 
 [Zenn](https://zenn.dev/m_coder)
 
-[blog](https://nanaten.github.io/blog/)
+[website](https://nanaten.github.io/)
 
 <!--
 **nanaten/nanaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
